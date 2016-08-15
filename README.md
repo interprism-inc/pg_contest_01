@@ -1,6 +1,6 @@
 # Programming Contest No.1
 
-Interprism 第一回プログラミングコンテスト
+Interprism 第1回プログラミングコンテスト
 
 # 問題
 
@@ -89,3 +89,9 @@ Interprism 第一回プログラミングコンテスト
 - 使用可能なヒープメモリーのサイズは 100MB
 - 1つのロジックで全てのパターンを実行（パターン毎にロジックを変更することは禁止）
 - データベースの使用は禁止
+
+# エントリーされたソース
+
+エントリーされたソースはこちらにあります。
+
+https://github.com/interprism/pg_contest_01/tree/master/rankers
